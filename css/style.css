@@ -1,0 +1,40 @@
+body{
+   background-color: rgb(150, 137, 137);
+}
+.logo{
+ height: 50px;
+ width: 50px;
+ background-color: aqua;
+ border-radius: 50px;
+ 
+}
+
+
+.myimg{
+border: 2px solid rgb(202, 37, 37);
+height: 340px;
+width: 340px;
+text-align: center;
+border-radius: 100%;
+box-shadow: 50px;
+
+}
+.my{
+   border-radius: 14px;
+}
+.ak{
+   border-radius: 34px;
+}
+
+.pic {
+   height: 200px;
+   width: 200px;
+}
+#image{
+height:300px;
+width:209px;
+text-align:center;
+justify-content: center;
+margin: 30px;
+border-radius: 35px;
+}
